@@ -1,0 +1,6 @@
+{
+  "hotelName": "Tenet",
+  "city": "Ekaterinburg",
+  "services": ["Wi-fi", "Laundry", "Non-smoking room"],
+  "isReturnable": true
+}
